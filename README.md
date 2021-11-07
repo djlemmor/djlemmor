@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DJ Lemmor Nuique
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Laravel and Vue
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently working as a PHP Developer
 - 📫 How to reach me lemmornuique@gmail.com
 
 <!---
