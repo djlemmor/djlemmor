@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @djlemmor
+- 👋 Hi, I’m DJ Lemmor Nuique
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Vue 
+- 🌱 I’m currently learning Laravel and Vue
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me lemmornuique@gmail.com
 
 <!---
 djlemmor/djlemmor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
